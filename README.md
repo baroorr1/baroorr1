@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🛡️Learning the Art of Cybersecurity 
 ### 🌱 I’m currently learning Cryptography and Encryption
+### 🤝 Let's Connect and Collaborate:[LinkedIn](https://www.linkedin.com/in/ritheshreddybaroor/)
 ### 🤔 I’m looking for help with Career Advice in cybersecurity
 ### 📫 How to reach me: baroorr1@udayton.edu
 
