@@ -1,52 +1,24 @@
 # 👋 Hi, I'm Rithesh Reddy Baroor
 
-I'm a motivated IT professional with hands-on experience in technical support, network troubleshooting, and system configuration. Currently completing my Master's in Information Technology (4.0 GPA) and preparing for CompTIA A+ and Network+ certifications. I enjoy building real-world networking projects, managing user environments, and providing tech support in fast-paced environments.
+I'm currently pursuing my Master's in Information Technology (GPA: 4.0) and gaining hands-on experience in IT support, network troubleshooting, and system setup.
+
+Over the last year, I've worked on building custom PCs, resolving VPN and firewall issues, and providing remote support using tools like AnyDesk and Splashtop. I enjoy solving tech problems, creating clean documentation, and helping users get back on track quickly.
+
+I’m preparing for my CompTIA A+ and Network+ certifications, and I'm always excited to learn and contribute to real-world IT environments.
+
+Let’s connect and collaborate on something cool! 🚀
 
 ---
 
 ## 🛠️ Skills Snapshot
 
-- 🖥️ **Operating Systems:** Windows, Linux, macOS  
-- 🌐 **Networking:** TCP/IP, VPN, Router/Switch Configuration, Firewalls  
-- 🔧 **IT Support:** Remote Desktop, Hardware Setup, Active Directory, Office 365  
-- 🧪 **Virtualization:** VMware, VirtualBox  
-- 🔍 **Tools:** Microsoft 365, AnyDesk, Splashtop, GPOs
+- **Operating Systems**: Windows, Linux, macOS  
+- **Networking**: TCP/IP, VPN, Router/Switch Configuration, Firewalls  
+- **IT Support**: Remote Desktop, Hardware Setup, Active Directory, Office 365  
+- **Virtualization**: VMware, VirtualBox  
+- **Tools**: Microsoft 365, AnyDesk, Splashtop, GPOs, Ticketing Systems
 
 ---
 
-## 📦 Featured Projects
-
-### 🔹 [Small Office Network Design](https://github.com/baroorr1/small-office-network-design)
-A fully functional Cisco Packet Tracer network with:
-- VLAN segmentation (HR, IT, Finance)
-- Inter-VLAN routing (router-on-a-stick)
-- DHCP server setup with scope pools
-- End-to-end PC communication testing
-
-> Skills applied: VLANs, trunking, subinterfaces, DHCP, switch config, troubleshooting
-
-### 🔹 Virtual Machine Lab
-Used VirtualBox to simulate real-world IT environments, including OS installs, firewall rules, and system patching.
-
-### 🔹 Remote Support Simulation
-Provided remote helpdesk-style support using Splashtop and AnyDesk for file access, peripheral troubleshooting, and system resets.
-
----
-
-## 🎯 Currently Working On
-
-- 📚 Studying for **CompTIA A+ (June 2025)** and **Network+ (July 2025)**
-- 🧪 Building labs focused on Active Directory, GPOs, and Microsoft 365 Admin
-- 💼 Seeking IT Support / Helpdesk / Entry-level Network Tech roles
-
----
-
-## 📬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ritheshreddy16)
-- 📧 Email: rbaroor22533@ucumberlands.edu
-- 🌐 Portfolio Projects: pinned below
-
----
-
-> 👀 *Looking to join a tech-driven company where I can grow as a support technician or junior network engineer.*
+📫 **Email**: rbaroor22533@ucumberlands.edu  
+🔗 **LinkedIn**: [linkedin.com/in/ritheshreddy16](https://www.linkedin.com/in/ritheshreddy16)
